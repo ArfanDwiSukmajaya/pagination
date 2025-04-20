@@ -10,5 +10,3 @@ spring:
     hibernate:
       ddl-auto: update  # Atur sesuai kebutuhan Anda, misalnya 'none', 'create', atau 'update'
     show-sql: true  # Untuk menampilkan SQL yang dieksekusi di konsol (opsional)
-  profiles:
-    active: dev
