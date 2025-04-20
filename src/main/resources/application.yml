@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev  # default aktif saat dijalankan tanpa parameter
+
+server:
+  port: 8080
